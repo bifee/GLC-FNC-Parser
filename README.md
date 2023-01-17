@@ -1,0 +1,2 @@
+# GLC-FNC-Parser
+Verificador de uma Gramatica Livre de Contexto na Forma Normal de Chomsky
